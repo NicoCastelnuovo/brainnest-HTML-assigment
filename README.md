@@ -1,3 +1,3 @@
-# nico-presentation
+# brainnest-HTML-assigment
 
-https://nicocastelnuovo.github.io/nico-presentation/
+https://nicocastelnuovo.github.io/brainnest-HTML-assigment/
